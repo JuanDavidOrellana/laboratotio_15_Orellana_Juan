@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://laboratorio-15-orellana-juan.vercel.app/sitemap.xml
